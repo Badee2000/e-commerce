@@ -1,0 +1,7 @@
+**V1.0.2**
+- Delete Product.
+- Delete Category.
+- Add quantity to product.
+- Can't Order a product if it's not available.
+- Can't Order a product more than the available quantity.
+- Show "No Products Available." when there is no product found.
