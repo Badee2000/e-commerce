@@ -1,0 +1,53 @@
+1. User Management:
+   - User registration and authentication ""DONE"".
+   - User profile management. ""DONE"".
+   - Password reset ""DONE"".
+   - email verification. ""LAST""
+
+2. Product Management:
+   - Product listing, search, and filtering ""Done"".
+   - Product details and descriptions ""Half Done""
+   - Product categorization and tagging  ""Half Done""
+   - Product inventory management ""LAST""
+
+3. Shopping Cart and Checkout:
+   - Add/remove items from the cart ****************
+   - Quantity and price calculations ****************
+   - Apply discounts and promotional codes ""LAST""
+   - Checkout process with payment integration ""LAST""
+
+4. Order Management:
+   - Order placement and tracking
+   - Order history and status updates
+   - Order cancellation and returns
+
+5. Payment Gateway Integration:
+   - Integration with popular payment gateways for secure online payments
+   - Handling payment transactions and authorization
+
+6. Shipping and Logistics: ""LAST""
+   - Integration with shipping carriers and APIs for real-time shipping rates and tracking
+   - Address validation and management
+
+7. Wishlist and Favorites:
+   - Allow users to create and manage wishlists or favorites lists
+
+8. Reviews and Ratings:
+   - Enable customers to leave reviews and ratings for products
+   - Display average ratings and reviews on product pages
+
+9. Analytics and Reporting:
+   - Track and analyze sales, customer behavior, and other metrics
+   - Generate reports and insights for business decision-making
+
+10. Notifications and Communication:
+    - Send order confirmations, shipment notifications, and other transactional emails
+    - Real-time notifications for order updates or promotions
+
+11. Social Media Integration:
+    - Allow users to share products or reviews on social media platforms
+    - Social login for easy registration and authentication
+
+12. API Security:
+    - Implement authentication and authorization mechanisms to secure API endpoints
+    - Protect sensitive user data and transactions

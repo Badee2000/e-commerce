@@ -1,0 +1,12 @@
+New Tasks:
+1- Add the "In Stock: true/false" for a product if the quantity is 0 and show the text "Out of stock!".
+2- Add rating to a product.
+3- Add whishlist collection.
+4- Add paying methods.
+
+Previous mongoose: "mongoose": "^5.13.17",
+
+
+Future feature: I can add many units of the same product at the same order. "Added"
+- Create cart collection (Which is the same of orders).
+- LAST WITH MONEY - Add user balance.
